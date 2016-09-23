@@ -1,0 +1,11 @@
+{
+  "name": "react-formtastic",
+  "version": "0.1.0",
+  "description": "A form builder inspired by simple_form gem for Rails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chanaka Sandaruwan <chanakasan@gmail.com> (http://chanakasan.org/)",
+  "license": "Apache-2.0"
+}

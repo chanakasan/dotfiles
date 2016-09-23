@@ -1,6 +1,6 @@
 {
   "name": "react-formtastic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A form builder inspired by simple_form gem for Rails",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Chanaka Sandaruwan <chanakasan@gmail.com> (http://chanakasan.org/)",
   "license": "Apache-2.0",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/chanakasan/react-formtastic.git"
+    "type": "git",
+    "url": "https://github.com/chanakasan/react-formtastic.git"
   }
 }

@@ -1,1 +1,3 @@
-## React Formtastic [WIP]
+## dotfiles
+
+install scripts
